@@ -9,6 +9,7 @@ Bending Light: Watch the light rays curve dramatically as they approach the mass
 Infinite Trails: Each photon leaves a permanent trail, drawing the exact path it took through the warped space.
 
 
-The Point of No Return: We clearly mark the Event Horizon (the black hole's boundary). Once light crosses this red line, it's trapped forever!
+The Point of No Return: We clearly mark the Event Horizon (the black hole's boundary). Once light crosses this red line, it's trapped forever.
+
 
 
